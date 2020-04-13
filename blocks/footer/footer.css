@@ -1,0 +1,8 @@
+@import url(./__text/footer__text.css);
+
+.footer {
+    margin: 52px auto;
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 24px;
+}

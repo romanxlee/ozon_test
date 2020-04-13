@@ -1,0 +1,7 @@
+@import url(./__title/form-content__title.css);
+@import url(./__required/form-content__required.css);
+
+.form-content {
+    padding-top: 47px;
+    margin-left: 132px;
+}

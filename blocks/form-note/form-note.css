@@ -1,0 +1,10 @@
+@import url(./__title/form-note__title.css);
+@import url(./__item/form-note__item.css);
+
+.form-note {
+    max-width: 1000px;
+    height: 144px;
+    margin: 43px auto;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 2px;
+}

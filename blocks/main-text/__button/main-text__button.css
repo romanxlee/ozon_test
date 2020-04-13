@@ -1,0 +1,14 @@
+.main-text__button {
+    margin-top: 72px;
+    width: 320px;
+    height: 72px;
+    background: #F91155;
+    border-color: #F91155;
+    border-radius: 3px;
+    font-size: 24px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    cursor: pointer;
+}

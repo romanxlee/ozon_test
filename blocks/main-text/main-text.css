@@ -1,0 +1,9 @@
+@import url(./__title/main-text__title.css);
+@import url(./__paragraph/main-text__paragraph.css);
+@import url(./__button/main-text__button.css);
+@import url(./__link/main-text__link.css);
+
+.main-text {
+    margin-top: 141px;
+    margin-left: 63px;
+}

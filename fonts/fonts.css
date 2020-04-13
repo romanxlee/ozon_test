@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'GTEestiProDisplay';
+    font-style:  normal;
+    font-weight: 400;
+    src: url("./GTEestiProDisplay-Regular.woff2") format("woff2"),
+         url("./GTEestiProDisplay-Regular.woff") format("woff");
+  }

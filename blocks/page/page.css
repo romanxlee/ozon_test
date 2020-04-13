@@ -1,0 +1,7 @@
+.page {
+    max-width: 1440px;
+    min-height: 780px;
+    background-color: #005BFF;
+    padding-top: 24px;
+    font-family: 'GTEestiProDisplay';
+}

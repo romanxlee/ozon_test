@@ -1,0 +1,9 @@
+.form__paragraph {
+    max-width: 378px;
+    align-self: flex-start;
+    margin: 0;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.291667px;
+    color: #FFFFFF;
+}
